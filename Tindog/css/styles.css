@@ -134,6 +134,29 @@ padding-bottom: 3%;
 
 }
 
+            /* CTA Section */
+#cta{
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+}
+#cta h3{
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+}
+                /* FOOTER SECTION */
+#footer{
+    padding: 2% 15%;
+    text-align: center;
+    color:#8f8f8f
+}
+#footer i{
+    padding: 4px;
+}
+
+
 @media (max-width: 1340px) {
     #title{
         text-align: center;
