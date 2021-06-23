@@ -20,7 +20,7 @@ h2{
 
 }
 .container-fluid{
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
 }
 
 
@@ -53,15 +53,21 @@ h2{
 }
     /* Title Image */
 #mobile{
+    position: absolute;
+    right: 30%;
     margin: 2.5em 7.5em ;
-    width: 50%;
+    width: 47%;
     transform: rotate(25deg);
+    
 }
     /* SECTION FEATURES */
 #features{
+    background-color: #fff;
     color:#fff;
     padding: 7% 15%;
     text-align: center;
+    position: relative;
+    
 }
 #features h3{
     font-family:"Montserrat";
