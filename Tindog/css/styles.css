@@ -133,3 +133,16 @@ padding-bottom: 3%;
     padding:3% 2% ;
 
 }
+
+@media (max-width: 1340px) {
+    #title{
+        text-align: center;
+    }
+    #mobile{
+        position: static;
+        transform: rotate(0deg);
+        size:40%;
+    }
+    
+    
+}
