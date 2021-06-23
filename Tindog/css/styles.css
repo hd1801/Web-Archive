@@ -12,7 +12,7 @@ h1{
     text-shadow: 1px 1px black;
 }
 h2{
-    color:#fff;
+    
     font-family: "Montserrat";
     font-size: 3rem;
     font-weight: bold;
@@ -59,6 +59,7 @@ h2{
 }
     /* SECTION FEATURES */
 #features{
+    color:#fff;
     padding: 7% 15%;
     text-align: center;
 }
@@ -88,7 +89,7 @@ h2{
             /* TESTIMONIAL SECTION */
 
 #testimonials{
-    
+    color:#fff;
     text-align: center;
     background-color: #ff4c68;
 }            
@@ -112,5 +113,17 @@ padding-bottom: 3%;
     width: 15%;
     margin: 20px 20px 50px;
 
+}
+
+                /* PRCICING SECTION */
+
+#pricing{
+
+    text-align: center;
+    padding:100px;
+}
+.pricing-column{
+    min-height: ;
+    padding:3% 2% ;
 
 }
