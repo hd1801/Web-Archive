@@ -51,6 +51,7 @@ h1{
 }
     /* SECTION FEATURES */
 #features{
+    padding: 7% 15%;
     text-align: center;
 }
 #features h3{
@@ -62,6 +63,9 @@ h1{
     color:#8f8f8f;
 
 
+}
+.featurebox{
+        padding: 5%;
 }
 .iconx{
     color: #efB172;
