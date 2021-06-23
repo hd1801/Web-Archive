@@ -11,6 +11,14 @@ h1{
     line-height: 1.5;
     text-shadow: 1px 1px black;
 }
+h2{
+    color:#fff;
+    font-family: "Montserrat";
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+
+}
 .container-fluid{
     padding: 3% 15%;
 }
@@ -70,7 +78,39 @@ h1{
 .iconx{
     color: #efB172;
     font-size: 4rem;
+    margin: 10%;
 }
 .iconx:hover{
     color: #ff4c68;
+}
+
+
+            /* TESTIMONIAL SECTION */
+
+#testimonials{
+    
+    text-align: center;
+    background-color: #ff4c68;
+}            
+.testimonial-image{
+    width:10%;
+    border-radius: 100%;
+    margin:20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+        /* PRESS */
+
+#press{
+    background-color: #ff4c68;
+text-align: center;
+padding-bottom: 3%;
+}
+.press-img{
+    width: 15%;
+    margin: 20px 20px 50px;
+
+
 }
