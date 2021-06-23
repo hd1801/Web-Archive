@@ -49,3 +49,21 @@ h1{
     width: 50%;
     transform: rotate(25deg);
 }
+    /* SECTION FEATURES */
+#features{
+    text-align: center;
+}
+#features h3{
+    font-family:"Montserrat";
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#features p{
+    color:#8f8f8f;
+    
+
+}
+.iconx{
+    color: #efB172;
+    font-size: 4rem;
+}
