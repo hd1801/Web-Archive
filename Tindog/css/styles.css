@@ -60,10 +60,13 @@ h1{
 }
 #features p{
     color:#8f8f8f;
-    
+
 
 }
 .iconx{
     color: #efB172;
     font-size: 4rem;
+}
+.iconx:hover{
+    color: #ff4c68;
 }
