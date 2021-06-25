@@ -128,11 +128,23 @@ padding-bottom: 3%;
     text-align: center;
     padding:100px;
 }
-.pricing-column{
-    min-height: ;
-    padding:3% 2% ;
 
+.pricing-coloumn{
+        margin: auto;
 }
+.card{
+    margin:auto;
+}
+#pricing .pcb{
+    margin: auto;
+    height: 20em;
+    padding:3% 2% ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
 
             /* CTA Section */
 #cta{
