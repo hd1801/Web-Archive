@@ -82,12 +82,12 @@ h2{
 .featurebox{
         padding: 5%;
 }
-.iconx{
+.icons{
     color: #efB172;
     font-size: 4rem;
     margin: 10%;
 }
-.iconx:hover{
+.icons:hover{
     color: #ff4c68;
 }
 
@@ -146,14 +146,14 @@ padding-bottom: 3%;
 
 
 
-            /* CTA Section */
-#cta{
+            /* calltoaction Section */
+#calltoaction{
     color: #fff;
     padding: 7% 15%;
     text-align: center;
     background-color: #ff4c68;
 }
-#cta h3{
+#calltoaction h3{
     font-family: "Montserrat";
     font-weight: 900;
     font-size: 3rem;
