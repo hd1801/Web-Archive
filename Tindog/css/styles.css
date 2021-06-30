@@ -167,6 +167,9 @@ padding-bottom: 3%;
 #footer i{
     padding: 4px;
 }
+#footer p{
+    margin: 7px;
+}
 
 
 @media (max-width: 1340px) {
