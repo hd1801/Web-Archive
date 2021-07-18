@@ -2,7 +2,7 @@ body{
     font-family: 'Montserrat';
 }
 #title{
-    background-color: #3500d3;
+    background-color: #D23F87;
     color: white;
 }
 h1{
@@ -97,7 +97,7 @@ h2{
 #testimonials{
     color:#fff;
     text-align: center;
-    background-color: #3500d3;
+    background-color: #D23F87;
 }            
 .testimonial-image{
     width:10%;
@@ -111,7 +111,7 @@ h2{
         /* PRESS */
 
 #press{
-    background-color: #3500d3;
+    background-color: #D23F87;
 text-align: center;
 padding-bottom: 3%;
 }
@@ -151,7 +151,7 @@ padding-bottom: 3%;
     color: #fff;
     padding: 7% 15%;
     text-align: center;
-    background-color: #3500d3;
+    background-color: #D23F87;
 }
 #calltoaction h3{
     font-family: "Montserrat";
